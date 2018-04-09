@@ -3,43 +3,21 @@ layout: default
 ---
 
 ## About Me
+<img class="profile-picture" src="meevilquad.jpg">
+Hi, I'm Felix. 
+Here are some of my projects.
 
-<img class="profile-picture" src="sherlock.jpg">
+## Projects
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+### 🌮 Recipe Network
+A recipe shareing Resource for Friends and Family.
+[https://recipe.runningwhale.de](https://recipe.runningwhale.de) 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+### Help Jack finally fulfill his Role as Caretaker
+Play this cool game where you get to kill a boy with an axe. Find your way through a mythological maze and stand the freezing cold of the Colorado winter. Shine in the role as Jack and help him finally carry out his duty as a good Caretaker.
 
-## Research Interest
+A game I created with my brother.
+Published for Free on [itch.io](https://funwithaxes.itch.io/help-jack-finally-fulfill-his-role-as-caretaker) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Contact
+# [🐦](https://twitter.com/reiskeksultd) [🐙](https://github.com/thereiskeks) [👔](https://www.linkedin.com/in/felix-baral-a3453a146/)
