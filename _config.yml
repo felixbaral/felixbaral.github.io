@@ -1,6 +1,6 @@
 title: thereiskeks.github.io
-url: ""
-baseurl: 
+url: "https://thereiskeks.github.io"
+baseurl: "/"
 
 markdown: kramdown
 
