@@ -4,7 +4,8 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="meevilquad.jpg">
-Hi, I'm Felix. 
+Hi, I'm Felix. I like social games that bond people.
+
 Here are some of my projects.
 
 ## Projects
