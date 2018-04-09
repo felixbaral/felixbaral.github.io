@@ -4,13 +4,14 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="meevilquad.jpg">
-Hi, I'm Felix. 
+Hi, I'm Felix. I like social games that bond people.
+
 Here are some of my projects.
 
 ## Projects
 
 ### 🌮 Recipe Network
-A recipe shareing Resource for Friends and Family.
+A recipe shareing Resource for Friends and Family.<br>
 [https://recipe.runningwhale.de](https://recipe.runningwhale.de) 
 
 ### Help Jack finally fulfill his Role as Caretaker
