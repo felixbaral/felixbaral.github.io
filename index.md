@@ -17,7 +17,7 @@ A recipe shareing Resource for Friends and Family.<br>
 ### Help Jack finally fulfill his Role as Caretaker
 Play this cool game where you get to kill a boy with an axe. Find your way through a mythological maze and stand the freezing cold of the Colorado winter. Shine in the role as Jack and help him finally carry out his duty as a good Caretaker.
 
-A game I created with my brother.
+A game I created with my [brother](https://twitter.com/valentinbaral).
 Published for Free on [itch.io](https://funwithaxes.itch.io/help-jack-finally-fulfill-his-role-as-caretaker) 
 
 ## Publication
