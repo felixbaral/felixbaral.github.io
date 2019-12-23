@@ -1,5 +1,7 @@
 title: felixbaral.github.io
 url: "https://felixbaral.github.io"
+freelancestatus_text: "🟢 Freelance Status: Available for hire starting March 2020"
+freelancestatus: true
 baseurl: "/"
 
 markdown: kramdown
