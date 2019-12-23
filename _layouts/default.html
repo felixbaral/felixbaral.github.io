@@ -60,11 +60,10 @@
         </div>
         <div style="clear:both"></div>
         <hr>
-        <div class="{% if page.freelancestatus %}alert-success{% else %}alert-danger{% endif %}">
-          {% if page.freelancestatus_text %}{{ page.freelancestatus_text }}{% endif %}
-        </div>
-
             <div class="container content">
+                <div class="alert {% if site.freelancestatus %}alert-success{% else %}alert-danger{% endif %}">
+                  {% if site.freelancestatus_text %}{{ site.freelancestatus_text }}{% endif %}
+                </div>
                 {{ content }}
             </div>
     </div>
