@@ -8,6 +8,8 @@ layout: default
 
 Countries is an educational game. The individual countries are rendered from [this open SVG from wikipedia](https://de.wikipedia.org/wiki/Datei:World_map_blank_gmt.png). A **python** script rendered out those countries to png. The game itself, done in **haxeflixel** with **haxe**, uses those to give the player a, both mental and physical, challenges.
 
+The game is released and can be played on every interactiveSQUASH and MultiBall.
+
 ![countries image](ressources/countries.png)
 
 ## Captain Tsubasa Game
