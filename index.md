@@ -10,7 +10,7 @@ Here are some of my projects.
 
 ## Projects and Experiences
 
-### Games and Infrastructure at Fun With Balls GmbH 🎾⚽️🏐
+### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
 
 Fun with Balls is a [exergames](https://en.wikipedia.org/wiki/Exergaming) startup in Munich. I've built a lot of games for them and helped them build infrastructure. <br>
 
