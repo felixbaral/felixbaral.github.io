@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="me.jpg">
-Hi, I'm Felix. I grew up in Tübingen, then studied Computer Science B.Sc in Jena, Germany. I'm very interested in social or innovative games. I want to create software goods that bond people.
+Hi, I'm Felix. I grew up in Tübingen, then studied Computer Science B.Sc in Jena, Germany. I'm very interested in social and innovative games. **I want to create software goods that bond people.**
 
 Here are some of my projects.
 
@@ -32,6 +32,12 @@ Published for Free on [itch.io](https://funwithaxes.itch.io/help-jack-finally-fu
 During my Bachelor I occupied myself a lot with mechanics of F2P-games. I wrote a small article abut F2P anti-patterns in the [FifF 2/2017](https://www.fiff.de/publikationen/fiff-kommunikation/fk-2017/fk-2017-2).
 
 ## Contact
+- 💌 felixbaral@me.com
+- 📞 +49 151 26105883
 - [🐙 Github](https://github.com/thereiskeks) 
 - [👔 LinkedIn](https://www.linkedin.com/in/felix-baral-a3453a146/) 
 - [🐦 Twitter](https://twitter.com/reiskeksultd) 
+
+<br>
+<br>
+
