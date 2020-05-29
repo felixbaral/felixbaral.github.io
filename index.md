@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="me.jpg">
-Hi, I'm Felix. I grew up in Tübingen, then studied Computer Science B.Sc in Jena, Germany. I'm very interested in social and innovative games. **I want to create software goods that bond people.**
+Hi, I'm Felix. I grew up in Tübingen, then studied Computer Science B.Sc in Jena, Germany. I'm interested in all kinds of social and innovative apps and games. There is is a huge untapped well of social potential left in it. **I have set myself the goal to dig some of it up.**
 
 Here are some of my projects.
 
