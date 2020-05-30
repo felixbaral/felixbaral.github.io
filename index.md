@@ -14,7 +14,7 @@ Here are some of my projects.
 
 HEAVN builds human centric desk lamps. I helped them build Apps for Android and iOS. The Apps are native and communicate with Bluetooth Low Energy to the Lamp using a GATT UART Service.
 
-<video autoplay controls loop>
+<video autoplay controls loop width="120pt">
   <source type="video/mp4" src="ressources/heavn_small.mp4">
 </video>
 
