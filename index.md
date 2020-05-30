@@ -10,6 +10,14 @@ Here are some of my projects.
 
 ## Projects and Experiences
 
+### 💡 Apps for HEAVN GmbH
+
+HEAVN builds human centric desk lamps. I helped them build Apps for Android and iOS. The Apps are native and communicate with Bluetooth Low Energy to the Lamp using a GATT UART Service.
+
+<video width="80%" autoplay controls loop>
+  <source type="video/mp4" src="ressources/heavn_small.mp4">
+</video>
+
 ### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
 
 Fun with Balls is a [exergames](https://en.wikipedia.org/wiki/Exergaming) startup in Munich. I've built a lot of games for them and helped them build infrastructure. <br>
