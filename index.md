@@ -27,7 +27,7 @@ Fun with Balls is a [exergames](https://en.wikipedia.org/wiki/Exergaming) startu
 ### 🌮 Recipe Network
 
 A recipe shareing Resource for Friends and Family.<br>
-[https://recipe.runningwhale.de](http://recipe.runningwhale.de)
+[https://recipe.runningwhale.de](https://recipe.runningwhale.de)
 
 ### Help Jack finally fulfill his Role as Caretaker
 Play this cool game where you get to kill a boy with an axe. Find your way through a mythological maze and stand the freezing cold of the Colorado winter. Shine in the role as Jack and help him finally carry out his duty as a good Caretaker.
