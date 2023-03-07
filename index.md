@@ -42,7 +42,7 @@ During my Bachelor I occupied myself a lot with mechanics of F2P-games. I wrote 
 ## Contact
 - 💌 felixbaral@me.com
 - 📞 +49 151 26105883
-- [🐙 Github](https://github.com/thereiskeks) 
+- [🐙 Github](https://github.com/felixbaral) 
 - [👔 LinkedIn](https://www.linkedin.com/in/felix-baral-a3453a146/) 
 - [🐦 Twitter](https://twitter.com/reiskeksultd) 
 
