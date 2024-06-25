@@ -14,10 +14,12 @@ Here are some of my projects.
 
 [HEAVN](https://heavn-lights.com) builds human centric luminaires. I build their Apps for Android and iOS. The Apps are native, with a kotlin native core, and communicate with Bluetooth Low Energy with the luminaire. I also build their firmwares in C and C++ on using the Zephyr RTOS.
 
+<p>
 <video autoplay controls loop width="120pt">
   <source type="video/mp4" src="ressources/heavn_small.mp4">
-</video><img src="ressources/heavn.png" style="height:5cm;display:inline;width:auto;">
-
+</video>
+<img src="ressources/heavn.png" style="height:5cm;display:inline;width:auto;">
+</p>
 
 ### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
 
