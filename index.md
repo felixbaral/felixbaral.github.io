@@ -12,7 +12,7 @@ Here are some of my projects.
 
 ### 💡 Apps for HEAVN GmbH
 
-[HEAVN](https://heavn-lights.com) builds human centric desk lamps. I helped them build Apps for Android and iOS. The Apps are native and communicate with Bluetooth Low Energy to the Lamp using a GATT UART Service.
+[HEAVN](https://heavn-lights.com) builds human centric luminaires. I build their Apps for Android and iOS. The Apps are native, with a kotlin native core, and communicate with Bluetooth Low Energy with the luminaire. I also build their firmwares in C and C++ on using the Zephyr RTOS.
 
 <video autoplay controls loop width="120pt">
   <source type="video/mp4" src="ressources/heavn_small.mp4">
