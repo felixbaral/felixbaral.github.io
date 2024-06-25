@@ -18,6 +18,9 @@ Here are some of my projects.
   <source type="video/mp4" src="ressources/heavn_small.mp4">
 </video>
 
+<img src="heavn.png">
+
+
 ### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
 
 Fun with Balls is a [exergames](https://en.wikipedia.org/wiki/Exergaming) startup in Munich. I've built a lot of games for them and helped them build infrastructure. <br>
