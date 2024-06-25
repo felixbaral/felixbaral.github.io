@@ -18,7 +18,7 @@ Here are some of my projects.
   <source type="video/mp4" src="ressources/heavn_small.mp4">
 </video>
 
-<img src="heavn.png">
+<img src="ressources/heavn.png">
 
 
 ### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
