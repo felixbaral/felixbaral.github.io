@@ -16,8 +16,7 @@ Here are some of my projects.
 
 <video autoplay controls loop width="120pt">
   <source type="video/mp4" src="ressources/heavn_small.mp4">
-</video>
-<img src="ressources/heavn.png" style="height:7cm;display:inline;width:auto;">
+</video><img src="ressources/heavn.png" style="height:5cm;display:inline;width:auto;">
 
 
 ### 🎾⚽️🏐 Games and Infrastructure at Fun With Balls GmbH
