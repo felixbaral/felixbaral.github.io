@@ -17,7 +17,6 @@ Here are some of my projects.
 <video autoplay controls loop width="120pt">
   <source type="video/mp4" src="ressources/heavn_small.mp4">
 </video>
-
 <img src="ressources/heavn.png">
 
 
